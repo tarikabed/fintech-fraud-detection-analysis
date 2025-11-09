@@ -1,4 +1,5 @@
 # Fintech Fraud Detection: Isolation Forest vs Gradient Boosting
+(within .ipynb file)
 
 This project investigates two complementary machine learning approaches to detecting fraudulent credit card transactions in a highly imbalanced dataset.  
 It compares an unsupervised anomaly detection model, **Isolation Forest**, with a supervised **Gradient Boosting** classifier to evaluate how the use of labelled data affects fraud detection performance.
