@@ -87,4 +87,4 @@ This project demonstrates skills in:
 ### Author
 **Tarik Abed**  
 University of Surrey – BSc/MEng Computer Science  
-Focused on data science, machine learning and financial technology analytics.
+
